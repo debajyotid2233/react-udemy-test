@@ -5,7 +5,7 @@ function App() {
   return (
     <>
     <h1>Learn react</h1>
-    <p>Changed the sub heading again.</p>
+    <p>Changed the sub heading.</p>
     </>
 );
 }
